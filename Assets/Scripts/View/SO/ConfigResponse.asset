@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a12172321d0542edae5d2ec8e214f31e, type: 3}
+  m_Name: ConfigResponse
+  m_EditorClassIdentifier: Assembly-CSharp:GameTestProject.Scripts.View:ConfigResponse
+  TimeCheck: 0.2
+  isStandardPlane: {r: 0.6886792, g: 0.6886792, b: 0.6886792, a: 1}
+  isStandardText: {r: 0, g: 0, b: 0, a: 1}
+  isRightPlane: {r: 0.59291434, g: 0.754717, b: 0.5724457, a: 1}
+  isFalsePlane: {r: 0.6603774, g: 0.44482023, b: 0.44482023, a: 1}
+  isRightText: {r: 0, g: 0, b: 0, a: 1}
+  isFalseText: {r: 0.7924528, g: 0.7924528, b: 0.7924528, a: 1}

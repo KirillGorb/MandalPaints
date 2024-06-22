@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "104437098861",
+    "firebase_url": "https://testproject-a4af0-default-rtdb.firebaseio.com",
+    "project_id": "testproject-a4af0",
+    "storage_bucket": "testproject-a4af0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104437098861:android:3060ad6f33ba3ff11c5264",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.EchoofCaves"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RjONiR3r_kFxiqO4AEeSIICg3dhVVl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104437098861:android:18cec94eed4dc4c71c5264",
+        "android_client_info": {
+          "package_name": "com.EchoofCaves.Portals"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1RjONiR3r_kFxiqO4AEeSIICg3dhVVl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
